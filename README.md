@@ -176,7 +176,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ~~~
 Developed By:B.Mahalakshmi
 Registration no:212221240008
-
+~~~
+```
 #include "main.h"
 #include "lcd.h"
 void SystemClock_Config(void);
@@ -255,7 +256,7 @@ void Error_Handler(void)
 void assert_failed(uint8_t *file, uint32_t line){}
 #endif
 
-
+```
 
 ## Output screen shots of proteus  :
 <img width="203" alt="m1" src="https://github.com/Mahalakshmibalireddy21003680/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/93427286/b02e4f8e-12e1-4474-8586-04c7dde8897a">
