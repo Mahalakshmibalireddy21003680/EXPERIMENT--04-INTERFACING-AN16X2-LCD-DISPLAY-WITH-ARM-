@@ -262,6 +262,8 @@ void assert_failed(uint8_t *file, uint32_t line){}
 
 <img width="203" alt="m1" src="https://github.com/Mahalakshmibalireddy21003680/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/93427286/b02e4f8e-12e1-4474-8586-04c7dde8897a">
 
+<br>
+
 <img width="665" alt="m2" src="https://github.com/Mahalakshmibalireddy21003680/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/93427286/a608e427-5183-4325-beeb-bb15910afaac">
 
 
